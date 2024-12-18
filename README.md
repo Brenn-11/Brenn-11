@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Brenn-11
 - 👀 I’m interested in FrontEnd 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 😄 My pronouns are she/her
 - ⚡ I like coffee and The Weeknd
 
 <!---
